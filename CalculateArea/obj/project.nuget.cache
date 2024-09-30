@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CtoKKO4Wn5mWDj3JXyrZ5mW8uz1gfmHI9wu520fFe+Iv8wEBm5+/QM6zw7QeMuI4xyrPERZWKak8jMLsYskdA==",
+  "success": true,
+  "projectFilePath": "E:\\CalculateArea\\CalculateArea\\CalculateArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artur\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\artur\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateArea", "CalculateArea.csproj", "{D771EF7B-3DC9-48A4-B15A-E52F70D4468F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{2F9463E9-89BA-4FD9-902A-79BB72D42C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3B984851-DBD2-42DC-AB84-E41F3F3E8F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D771EF7B-3DC9-48A4-B15A-E52F70D4468F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D771EF7B-3DC9-48A4-B15A-E52F70D4468F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D771EF7B-3DC9-48A4-B15A-E52F70D4468F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D771EF7B-3DC9-48A4-B15A-E52F70D4468F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B984851-DBD2-42DC-AB84-E41F3F3E8F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B984851-DBD2-42DC-AB84-E41F3F3E8F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B984851-DBD2-42DC-AB84-E41F3F3E8F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B984851-DBD2-42DC-AB84-E41F3F3E8F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F76FCF84-0F4D-4A15-B1AE-EBA52FD74D3C} = {2F9463E9-89BA-4FD9-902A-79BB72D42C53}
+	EndGlobalSection
+EndGlobal

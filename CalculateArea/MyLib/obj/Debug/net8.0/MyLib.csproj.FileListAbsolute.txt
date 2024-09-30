@@ -1,0 +1,12 @@
+E:\CalculateArea\CalculateArea\MyLib\bin\Debug\net8.0\MyLib.deps.json
+E:\CalculateArea\CalculateArea\MyLib\bin\Debug\net8.0\MyLib.dll
+E:\CalculateArea\CalculateArea\MyLib\bin\Debug\net8.0\MyLib.pdb
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.sourcelink.json
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.dll
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\MyLib.pdb
+E:\CalculateArea\CalculateArea\MyLib\obj\Debug\net8.0\ref\MyLib.dll
